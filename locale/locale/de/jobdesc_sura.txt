@@ -1,0 +1,1 @@
+[DELAY value;10]`nRunenmagier[ENTER]`n[ENTER]`nRunenmagier formen Aether[ENTER]`nzu Zeichen, Fokus und[ENTER]`nElementarkraft. Ihr Wissen[ENTER]`nstammt aus Myrs Archiven.[ENTER]`n[WAIT]`nElementaristen entfesseln[ENTER]`nRissfeuer. Arkanisten[ENTER]`nfuehren Runen wie Klingen[ENTER]`naus reinem Licht.[ENTER]

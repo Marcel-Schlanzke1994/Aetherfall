@@ -1,0 +1,1 @@
+[DELAY value;10]`nSchattenlaeufer[ENTER]`n[ENTER]`nSchattenlaeufer kaempfen[ENTER]`nmit Tempo, Hinterhalt und[ENTER]`npraezisen Dolchen fuer die[ENTER]`nFreiheit Nareths.[ENTER]`n[WAIT]`nAls Duellanten suchen sie[ENTER]`nden direkten Stich. Als[ENTER]`nNachtklingen verschwinden[ENTER]`nsie im violetten Schatten.[ENTER]

@@ -1,0 +1,1 @@
+[DELAY value;10]`nSeelenrufer[ENTER]`n[ENTER]`nSeelenrufer verbinden[ENTER]`nRitual, Totem und Kontrolle.[ENTER]`nSie halten Gefaehrten am[ENTER]`nLeben und brechen Flueche.[ENTER]`n[WAIT]`nHeiler staerken Gruppen.[ENTER]`nFluchwirker binden Gegner[ENTER]`nmit Stimmen aus dem Riss.[ENTER]

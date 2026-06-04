@@ -1,0 +1,1 @@
+[DELAY value;10]`nKlingenwaechter[ENTER]`n[ENTER]`nKlingenwaechter stehen an[ENTER]`nder Front von Valoria und[ENTER]`nschuetzen Gruppe, Gilde und[ENTER]`nFestung mit Schildkunst.[ENTER]`n[WAIT]`nAls Bastion halten sie[ENTER]`nLinien. Als Berserker[ENTER]`nbrechen sie Gegner mit[ENTER]`nSturmklinge und Mut.[ENTER]
