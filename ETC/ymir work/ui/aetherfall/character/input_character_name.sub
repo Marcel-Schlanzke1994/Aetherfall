@@ -1,0 +1,7 @@
+title subImage
+version 2.0
+image "input_character_name.tga"
+left 0
+top 0
+right 285
+bottom 60
